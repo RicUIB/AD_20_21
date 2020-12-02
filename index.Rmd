@@ -28,7 +28,7 @@ Clase de introducción se han comentado la instalación de R (4.0+), Rstudio y p
 El miércoles 9 de diciembre habrá clase por BBcollaborate.
 Tenéis que leer los temas  del  2 al 8 de  [R for data science (bookdown)](https://r4ds.had.co.nz/).
 
-Estar atentos a notificaciones.
+Estad atentos a notificaciones.
 
 ### Comentarios
  1. El martes 8 de diciembre es fiesta no hay clase.
