@@ -9,24 +9,24 @@ output:
 
 # Temporalización 
 
-##  Clase 1 miércoles  2 de diciembre
+##  Clase 1: miércoles  2 de diciembre
 
 
 Clase de introducción se han comentado la instalación de R (4.0+), Rstudio y python anaconda.
 
 1. [Instalación  en windows de R+RStudio+latex+anaconda](https://www.youtube.com/watch?v=Btzq6Kzc0fE&feature=youtu.be)
-2. [R for data science (bookdown)](https://r4ds.had.co.nz/)
+2. [R for data science (bookdown)](https://r4ds.had.co.nz/) (alias r4ds)
 3. Bajaros el repositorio o un el proyecto  en local [Download github R for data science](https://github.com/hadley/r4ds)
-4. Hemos visto la intro de R r4ds y hemo hecho un `purl("intro.Rmd")` para extraer el códifo de la intro1.
+4. Hemos visto la introducción  de r4ds y hemo hecho un `purl("intro.Rmd")` para extraer el código de la intro.Rmd
 
-## Faena pare el miércoles 9 de dicembre
+## Tareas para el miércoles 9 de dicembre
 
 El miércoles 9 de diciembre habrá clase por BBcollaborate.
-Teneis que leer los temas  del  2 al 8 de  [R for data science (bookdown)](https://r4ds.had.co.nz/)
+Tenéis que leer los temas  del  2 al 8 de  [R for data science (bookdown)](https://r4ds.had.co.nz/)
 
 ## Comentarios
  1. El martes 8 de diciembre es fiesta no hay clase.
- 2. Fijar si el  idioma de redacción de la práctica final es libre.
- 3. Esta parte tendra una entrega de data wrangling.
- 4. Queda por determinar la entrega final.
+ 2. Queda por determinar la entrega final y fijar el idioma de entrega.
+ 3. La parte de r4ds  tendrá una entrega de data wrangling.
+
  
